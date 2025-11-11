@@ -4,7 +4,7 @@ import "fmt"
 
 func GuessMyNumber(game Game) string {
 	low := 1
-	high := 100
+	high := 360
 	var guess int
 	var res string
 
